@@ -4,11 +4,11 @@ Pytorch implementation for "[Deep Learning for Case-Based Reasoning through Prot
 
 # Requirements
 
-..*torch
-..*torchvision
-..*numpy
-..*matplotlib
-..*pillow
+* torch
+* torchvision
+* numpy
+* matplotlib
+* pillow
 
 You can run this command to install all of the requirements:
 
